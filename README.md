@@ -1,6 +1,3 @@
-# Airbnb-EDA
-### README.md
-
 # Airbnb NYC Listings EDA Project
 
 ## Overview
